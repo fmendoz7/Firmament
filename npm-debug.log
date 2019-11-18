@@ -1,0 +1,139 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node',
+1 verbose cli   '/usr/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   'node-red/node-rede-dashboard' ]
+2 info using npm@3.5.2
+3 info using node@v8.10.0
+4 verbose config Skipping project config: /home/fmendoz7/.npmrc. (matches userconfig)
+5 silly loadCurrentTree Starting
+6 silly install loadCurrentTree
+7 silly install readLocalPackageData
+8 silly fetchPackageMetaData node-red/node-rede-dashboard
+9 silly fetchOtherPackageData node-red/node-rede-dashboard
+10 silly cache add args [ 'node-red/node-rede-dashboard', null ]
+11 verbose cache add spec node-red/node-rede-dashboard
+12 silly cache add parsed spec Result {
+12 silly cache add   raw: 'node-red/node-rede-dashboard',
+12 silly cache add   scope: null,
+12 silly cache add   name: null,
+12 silly cache add   rawSpec: 'node-red/node-rede-dashboard',
+12 silly cache add   spec: 'github:node-red/node-rede-dashboard',
+12 silly cache add   type: 'hosted',
+12 silly cache add   hosted:
+12 silly cache add    { type: 'github',
+12 silly cache add      ssh: 'git@github.com:node-red/node-rede-dashboard.git',
+12 silly cache add      sshUrl: 'git+ssh://git@github.com/node-red/node-rede-dashboard.git',
+12 silly cache add      httpsUrl: 'git+https://github.com/node-red/node-rede-dashboard.git',
+12 silly cache add      gitUrl: 'git://github.com/node-red/node-rede-dashboard.git',
+12 silly cache add      shortcut: 'github:node-red/node-rede-dashboard',
+12 silly cache add      directUrl: 'https://raw.githubusercontent.com/node-red/node-rede-dashboard/master/package.json' } }
+13 verbose addRemoteGit caching node-red/node-rede-dashboard
+14 verbose addRemoteGit node-red/node-rede-dashboard is a repository hosted by github
+15 silly tryGitProto attempting to clone git://github.com/node-red/node-rede-dashboard.git
+16 silly tryClone cloning node-red/node-rede-dashboard via git://github.com/node-red/node-rede-dashboard.git
+17 verbose tryClone git-github-com-node-red-node-rede-dashboard-git-44d603a1 not in flight; caching
+18 verbose makeDirectory /home/fmendoz7/.npm/_git-remotes creation not in flight; initializing
+19 silly makeDirectory /home/fmendoz7/.npm/_git-remotes uid: 1000 gid: 1000
+20 info git [ 'clone',
+20 info git   '--template=/home/fmendoz7/.npm/_git-remotes/_templates',
+20 info git   '--mirror',
+20 info git   'git://github.com/node-red/node-rede-dashboard.git',
+20 info git   '/home/fmendoz7/.npm/_git-remotes/git-github-com-node-red-node-rede-dashboard-git-44d603a1' ]
+21 verbose git clone --template=/home/fmendoz7/.npm/_git-remotes/_templates --mirror git://github.com/node-red/node-rede-dashboard.git /home/fmendoz7/.npm/_git-remotes/git-github-com-node-red-node-rede-dashboard-git-44d603a1: Cloning into bare repository '/home/fmendoz7/.npm/_git-remotes/git-github-com-node-red-node-rede-dashboard-git-44d603a1'...
+21 verbose git clone --template=/home/fmendoz7/.npm/_git-remotes/_templates --mirror git://github.com/node-red/node-rede-dashboard.git /home/fmendoz7/.npm/_git-remotes/git-github-com-node-red-node-rede-dashboard-git-44d603a1: fatal: remote error:
+21 verbose git clone --template=/home/fmendoz7/.npm/_git-remotes/_templates --mirror git://github.com/node-red/node-rede-dashboard.git /home/fmendoz7/.npm/_git-remotes/git-github-com-node-red-node-rede-dashboard-git-44d603a1:   Repository not found.
+22 silly tryHTTPS attempting to clone git+https://github.com/node-red/node-rede-dashboard.git
+23 silly tryClone cloning node-red/node-rede-dashboard via git+https://github.com/node-red/node-rede-dashboard.git
+24 verbose tryClone git-https-github-com-node-red-node-rede-dashboard-git-c0f441d6 not in flight; caching
+25 info git [ 'clone',
+25 info git   '--template=/home/fmendoz7/.npm/_git-remotes/_templates',
+25 info git   '--mirror',
+25 info git   'https://github.com/node-red/node-rede-dashboard.git',
+25 info git   '/home/fmendoz7/.npm/_git-remotes/git-https-github-com-node-red-node-rede-dashboard-git-c0f441d6' ]
+26 verbose git clone --template=/home/fmendoz7/.npm/_git-remotes/_templates --mirror https://github.com/node-red/node-rede-dashboard.git /home/fmendoz7/.npm/_git-remotes/git-https-github-com-node-red-node-rede-dashboard-git-c0f441d6: Cloning into bare repository '/home/fmendoz7/.npm/_git-remotes/git-https-github-com-node-red-node-rede-dashboard-git-c0f441d6'...
+26 verbose git clone --template=/home/fmendoz7/.npm/_git-remotes/_templates --mirror https://github.com/node-red/node-rede-dashboard.git /home/fmendoz7/.npm/_git-remotes/git-https-github-com-node-red-node-rede-dashboard-git-c0f441d6: remote: Invalid username or password.
+26 verbose git clone --template=/home/fmendoz7/.npm/_git-remotes/_templates --mirror https://github.com/node-red/node-rede-dashboard.git /home/fmendoz7/.npm/_git-remotes/git-https-github-com-node-red-node-rede-dashboard-git-c0f441d6: fatal: Authentication failed for 'https://github.com/node-red/node-rede-dashboard.git/'
+27 silly trySSH attempting to clone git@github.com:node-red/node-rede-dashboard.git
+28 silly tryClone cloning node-red/node-rede-dashboard via git@github.com:node-red/node-rede-dashboard.git
+29 verbose tryClone git-github-com-node-red-node-rede-dashboard-git-5780f2e4 not in flight; caching
+30 info git [ 'clone',
+30 info git   '--template=/home/fmendoz7/.npm/_git-remotes/_templates',
+30 info git   '--mirror',
+30 info git   'git@github.com:node-red/node-rede-dashboard.git',
+30 info git   '/home/fmendoz7/.npm/_git-remotes/git-github-com-node-red-node-rede-dashboard-git-5780f2e4' ]
+31 error git clone --template=/home/fmendoz7/.npm/_git-remotes/_templates --mirror git@github.com:node-red/node-rede-dashboard.git /home/fmendoz7/.npm/_git-remotes/git-github-com-node-red-node-rede-dashboard-git-5780f2e4: Cloning into bare repository '/home/fmendoz7/.npm/_git-remotes/git-github-com-node-red-node-rede-dashboard-git-5780f2e4'...
+31 error git clone --template=/home/fmendoz7/.npm/_git-remotes/_templates --mirror git@github.com:node-red/node-rede-dashboard.git /home/fmendoz7/.npm/_git-remotes/git-github-com-node-red-node-rede-dashboard-git-5780f2e4: Warning: Permanently added 'github.com,192.30.255.113' (RSA) to the list of known hosts.
+31 error git clone --template=/home/fmendoz7/.npm/_git-remotes/_templates --mirror git@github.com:node-red/node-rede-dashboard.git /home/fmendoz7/.npm/_git-remotes/git-github-com-node-red-node-rede-dashboard-git-5780f2e4: git@github.com: Permission denied (publickey).
+31 error git clone --template=/home/fmendoz7/.npm/_git-remotes/_templates --mirror git@github.com:node-red/node-rede-dashboard.git /home/fmendoz7/.npm/_git-remotes/git-github-com-node-red-node-rede-dashboard-git-5780f2e4: fatal: Could not read from remote repository.
+31 error git clone --template=/home/fmendoz7/.npm/_git-remotes/_templates --mirror git@github.com:node-red/node-rede-dashboard.git /home/fmendoz7/.npm/_git-remotes/git-github-com-node-red-node-rede-dashboard-git-5780f2e4:
+31 error git clone --template=/home/fmendoz7/.npm/_git-remotes/_templates --mirror git@github.com:node-red/node-rede-dashboard.git /home/fmendoz7/.npm/_git-remotes/git-github-com-node-red-node-rede-dashboard-git-5780f2e4: Please make sure you have the correct access rights
+31 error git clone --template=/home/fmendoz7/.npm/_git-remotes/_templates --mirror git@github.com:node-red/node-rede-dashboard.git /home/fmendoz7/.npm/_git-remotes/git-github-com-node-red-node-rede-dashboard-git-5780f2e4: and the repository exists.
+32 silly fetchPackageMetaData Error: Command failed: git clone --template=/home/fmendoz7/.npm/_git-remotes/_templates --mirror git@github.com:node-red/node-rede-dashboard.git /home/fmendoz7/.npm/_git-remotes/git-github-com-node-red-node-rede-dashboard-git-5780f2e4
+32 silly fetchPackageMetaData Cloning into bare repository '/home/fmendoz7/.npm/_git-remotes/git-github-com-node-red-node-rede-dashboard-git-5780f2e4'...
+32 silly fetchPackageMetaData Warning: Permanently added 'github.com,192.30.255.113' (RSA) to the list of known hosts.
+32 silly fetchPackageMetaData git@github.com: Permission denied (publickey).
+32 silly fetchPackageMetaData fatal: Could not read from remote repository.
+32 silly fetchPackageMetaData
+32 silly fetchPackageMetaData Please make sure you have the correct access rights
+32 silly fetchPackageMetaData and the repository exists.
+32 silly fetchPackageMetaData
+32 silly fetchPackageMetaData     at ChildProcess.exithandler (child_process.js:275:12)
+32 silly fetchPackageMetaData     at emitTwo (events.js:126:13)
+32 silly fetchPackageMetaData     at ChildProcess.emit (events.js:214:7)
+32 silly fetchPackageMetaData     at maybeClose (internal/child_process.js:925:16)
+32 silly fetchPackageMetaData     at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+32 silly fetchPackageMetaData  error for node-red/node-rede-dashboard { Error: Command failed: git clone --template=/home/fmendoz7/.npm/_git-remotes/_templates --mirror git@github.com:node-red/node-rede-dashboard.git /home/fmendoz7/.npm/_git-remotes/git-github-com-node-red-node-rede-dashboard-git-5780f2e4
+32 silly fetchPackageMetaData Cloning into bare repository '/home/fmendoz7/.npm/_git-remotes/git-github-com-node-red-node-rede-dashboard-git-5780f2e4'...
+32 silly fetchPackageMetaData Warning: Permanently added 'github.com,192.30.255.113' (RSA) to the list of known hosts.
+32 silly fetchPackageMetaData git@github.com: Permission denied (publickey).
+32 silly fetchPackageMetaData fatal: Could not read from remote repository.
+32 silly fetchPackageMetaData
+32 silly fetchPackageMetaData Please make sure you have the correct access rights
+32 silly fetchPackageMetaData and the repository exists.
+32 silly fetchPackageMetaData
+32 silly fetchPackageMetaData     at ChildProcess.exithandler (child_process.js:275:12)
+32 silly fetchPackageMetaData     at emitTwo (events.js:126:13)
+32 silly fetchPackageMetaData     at ChildProcess.emit (events.js:214:7)
+32 silly fetchPackageMetaData     at maybeClose (internal/child_process.js:925:16)
+32 silly fetchPackageMetaData     at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+32 silly fetchPackageMetaData   killed: false,
+32 silly fetchPackageMetaData   code: 128,
+32 silly fetchPackageMetaData   signal: null,
+32 silly fetchPackageMetaData   cmd: 'git clone --template=/home/fmendoz7/.npm/_git-remotes/_templates --mirror git@github.com:node-red/node-rede-dashboard.git /home/fmendoz7/.npm/_git-remotes/git-github-com-node-red-node-rede-dashboard-git-5780f2e4' }
+33 silly rollbackFailedOptional Starting
+34 silly rollbackFailedOptional Finishing
+35 silly runTopLevelLifecycles Starting
+36 silly runTopLevelLifecycles Finishing
+37 silly install printInstalled
+38 verbose stack Error: Command failed: git clone --template=/home/fmendoz7/.npm/_git-remotes/_templates --mirror git@github.com:node-red/node-rede-dashboard.git /home/fmendoz7/.npm/_git-remotes/git-github-com-node-red-node-rede-dashboard-git-5780f2e4
+38 verbose stack Cloning into bare repository '/home/fmendoz7/.npm/_git-remotes/git-github-com-node-red-node-rede-dashboard-git-5780f2e4'...
+38 verbose stack Warning: Permanently added 'github.com,192.30.255.113' (RSA) to the list of known hosts.
+38 verbose stack git@github.com: Permission denied (publickey).
+38 verbose stack fatal: Could not read from remote repository.
+38 verbose stack
+38 verbose stack Please make sure you have the correct access rights
+38 verbose stack and the repository exists.
+38 verbose stack
+38 verbose stack     at ChildProcess.exithandler (child_process.js:275:12)
+38 verbose stack     at emitTwo (events.js:126:13)
+38 verbose stack     at ChildProcess.emit (events.js:214:7)
+38 verbose stack     at maybeClose (internal/child_process.js:925:16)
+38 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)
+39 verbose cwd /home/fmendoz7
+40 error Linux 5.0.0-1025-azure
+41 error argv "/usr/bin/node" "/usr/bin/npm" "install" "node-red/node-rede-dashboard"
+42 error node v8.10.0
+43 error npm  v3.5.2
+44 error code 128
+45 error Command failed: git clone --template=/home/fmendoz7/.npm/_git-remotes/_templates --mirror git@github.com:node-red/node-rede-dashboard.git /home/fmendoz7/.npm/_git-remotes/git-github-com-node-red-node-rede-dashboard-git-5780f2e4
+45 error Cloning into bare repository '/home/fmendoz7/.npm/_git-remotes/git-github-com-node-red-node-rede-dashboard-git-5780f2e4'...
+45 error Warning: Permanently added 'github.com,192.30.255.113' (RSA) to the list of known hosts.
+45 error git@github.com: Permission denied (publickey).
+45 error fatal: Could not read from remote repository.
+45 error
+45 error Please make sure you have the correct access rights
+45 error and the repository exists.
+46 error If you need help, you may report this error at:
+46 error     <https://github.com/npm/npm/issues>
+47 verbose exit [ 1, true ]

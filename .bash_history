@@ -121,3 +121,64 @@ sudo a2dissite 000-default.conf
 sudo systemctl reload apache2
 sudo apache2ctl configtest
 sudo systemctl restart apache2
+ls
+sudo nano /home/fmendoz7/.node-red/settings.js
+sudo npm install -g node-red-admin
+sudo node-red-admin hash-pw
+sudo nano /home/fmendoz7/.node-red/settings.js
+sudo npm Install node-red/node-rede-dashboard
+sudo npm install node-red/node-rede-dashboard
+cd ~/.node-red
+npm i node-red-dashboard
+node-red-stop
+npm install node-red-dashboard
+sudo reboot
+mkdir -p /var/www/firmament4.westus.cloudapp.azure.com/html
+sudo mkdir -p /var/www/firmament4.westus.cloudapp.azure.com/html
+sudo chown -R $USER:$USER /var/www/firmament4.westus.cloudapp.azure.com/html
+sudo chmod -R 755 /var/www/firmament4.westus.cloudapp.azure.com
+sudo nano /var/www/firmament4.westus.cloudapp.azure.com/html/index.php
+sudo nano /etc/apache2/sites-available/firmament4.westus.cloudapp.azure.com.conf
+sudo a2ensite firmament4.westus.cloudapp.azure.com.conf
+sudo systemctl reload apache2
+sudo a2dissite 000-default.conf
+sudo apache2ctl configtest
+sudo systemctl restart apache2
+sudo add-apt-repository ppa:certbot/certbot
+sudo apt install python-certbot-apache
+sudo certbot --apache -d firmament4.westus.cloudapp.azure.com -d www.firmament4.westus.cloudapp.azure.com 
+sudo certbot --apache -d firmament4.westus.cloudapp.azure.com -d firmament4.westus.cloudapp.azure.com 
+cd /etc/apache2/sites-available/firmament4.westus.cloudapp.azure.com-le-ssl.conf
+sudo nano /etc/apache2/sites-available/firmament4.westus.cloudapp.azure.com-le-ssl.conf
+sudo apt-get remove python-certbot-apache
+sudo a2ensite firmament4.westus.cloudapp.azure.com.conf
+sudo a2dissite 000-default.conf
+sudo apache2ctl configtest
+sudo systemctl restart apache2
+git log --oneline
+git reset a71a415
+sudo systemctl restart apache2
+git add .
+git commit -m "NEVER EVER EVER configure SSH from that tutorial. Fixed crashed webpage. Will attempt direct SSH via Azure"
+git push
+sudo mkdir -p /var/www/fm4.westus.cloudapp.azure.com/html
+sudo chown -R $USER:$USER /var/www/fm4.westus.cloudapp.azure.com/html
+sudo chmod -R 755 /var/www/fm4.westus.cloudapp.azure.com
+sudo nano /var/www/fm4.westus.cloudapp.azure.com/html/index.php
+sudo nano /etc/apache2/sites-available/fm4.westus.cloudapp.azure.com.conf
+sudo a2ensite fm4.westus.cloudapp.azure.com.conf
+sudo systemctl reload apache2
+sudo a2dissite 000-default.conf
+sudo apache2ctl configtest
+sudo systemctl restart apache2
+git add .
+git commit -m "Skipped their SSL method, proceeding to Node.JS and Node-RED"
+git push
+sudo apt update 
+sudo apt install nodejs
+sudo apt install npm
+sudo npm install -g --unsafe-perm node-red
+sudo ufw allow 1880/tcp
+sudo node-red
+sudo node red
+sudo node-red

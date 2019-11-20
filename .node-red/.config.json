@@ -394,5 +394,19 @@
    }
   }
  },
- "_credentialSecret": "853ec04052351bb78d3bdc2d519038f0948e5a53600b3961f44014925c8e468b"
+ "_credentialSecret": "853ec04052351bb78d3bdc2d519038f0948e5a53600b3961f44014925c8e468b",
+ "users": {
+  "admin": {
+   "editor": {
+    "view": {
+     "view-show-grid": true,
+     "view-snap-grid": true,
+     "view-grid-size": 20,
+     "view-node-status": true,
+     "view-node-show-label": true,
+     "view-show-tips": true
+    }
+   }
+  }
+ }
 }

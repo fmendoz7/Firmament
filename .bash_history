@@ -182,3 +182,17 @@ sudo ufw allow 1880/tcp
 sudo node-red
 sudo node red
 sudo node-red
+az keyvault certificate create     --vault-name $keyvault_name     --name mycert \
+exit
+node-red
+ifconfig
+node-red
+git add .
+sudo git add .
+sudo git commit -m "Node RED setup complete. Fixed by enabling port 1880. Moving to SSL certs and joining"
+git push
+az keyvault certificate create     --vault-name $keyvault_name     --name fm4cert \
+az keyvault certificate create --vault-name $fm4 --name fm4cert --policy "$(az keyvault certificate get-default-policy)"
+keyvault certificate create --vault-name $fm4 --name fm4cert --policy "$(az keyvault certificate get-default-policy)"
+--vault-name $fm4 --name fm4cert --policy "$(az keyvault certificate get-default-policy)"
+sudo node-red

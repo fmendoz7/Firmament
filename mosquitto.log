@@ -1,0 +1,4 @@
+1574227066: mosquitto version 1.6.7 starting
+1574227066: Config loaded from /etc/mosquitto/conf.d/broker.conf.
+1574227066: Opening ipv4 listen socket on port 1883.
+1574227066: Error: Address already in use

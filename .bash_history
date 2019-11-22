@@ -196,3 +196,70 @@ az keyvault certificate create --vault-name $fm4 --name fm4cert --policy "$(az k
 keyvault certificate create --vault-name $fm4 --name fm4cert --policy "$(az keyvault certificate get-default-policy)"
 --vault-name $fm4 --name fm4cert --policy "$(az keyvault certificate get-default-policy)"
 sudo node-red
+sudo nano /etc/mosquitto/conf.d/broker.conf 
+sudo lsof -I:1883
+kill 831
+mosquitto_sub -t "sensorData"
+sudo mosquitto_sub -t "sensorData"
+sudo mosquitto_sub -t "sensorData" -u "passwords" -P "MosquittoHanchiBoy77"
+mosquitto_sub -t "test"
+mosquitto_sub -t "test2"
+mosquitto_sub -t "sensorDataUltima"
+.exit
+exit
+mosquitto_pub -t "sensorData" -m "Message from mosquitto_pub client"
+mosquitto_pub -t "sensorData" -m "Message from mosquitto_pub client" -u "passwords" -P "MosquittoHanchiBoy77"
+mosquitto_pub -t "sensorData" -m "Second Message from mosquitto_pub client" -u "passwords" -P "MosquittoHanchiBoy77"
+mosquitto_pub -t "sensorData" -m "Alpha" -u "passwords" -P "MosquittoHanchiBoy77"
+mosquitto_pub -t "sensorData" -m "Bravo" -u "passwords" -P "MosquittoHanchiBoy77"
+mosquitto_pub -t "sensorData" -m "Charlie" -u "passwords" -P "MosquittoHanchiBoy77"
+mosquitto_pub -t "sensorData" -m "Delta" -u "passwords" -P "MosquittoHanchiBoy77"
+mosquitto_pub -t "sensorData" -m "Echo" -u "passwords" -P "MosquittoHanchiBoy77"
+mosquitto_pub -t "sensorData" -m "Foxtrot" -u "passwords" -P "MosquittoHanchiBoy77"
+mosquitto_pub -t "sensorData" -m "Golf" -u "passwords" -P "MosquittoHanchiBoy77"
+mosquitto_pub -t "sensorData" -m "Hotel" -u "passwords" -P "MosquittoHanchiBoy77"
+mosquitto_pub -t "sensorData" -m "India" -u "passwords" -P "MosquittoHanchiBoy77"
+mosquitto_pub -t "sensorData" -m "Juliet" -u "passwords" -P "MosquittoHanchiBoy77"
+mosquitto_pub -t "sensorData" -m "" -u "passwords" -P "MosquittoHanchiBoy77"
+mosquitto_pub -t "sensorData" -m "Lima" -u "passwords" -P "MosquittoHanchiBoy77"
+sudo systemctl restart mosquitto
+exit
+mosquitto -t "test"
+mosquitto_sub -t "test"
+mosquitto_sub -t "test" -u "passwords" -P "MosquittoHanchiBoy77"
+mosquitto_sub -t "test" -u "password" -P "MosquittoHanchiBoy77"
+mosquitto_sub -t "sensorData"
+sudo mosquitto_sub -t "sensorData" -u "passwords" -P "MosquittoHanchiBoy77"
+sudo systemctl restart mosquitto
+systemctl status mosquitto
+sudo systemctl start mosquitto
+sudo systemctl enable mosquitto
+sudo mosquitto_sub -t "sensorData" -u "passwords" -P "MosquittoHanchiBoy77"
+sudo mosquitto_sub -t "sensorData" -u "password" -P "MosquittoHanchiBoy77"
+sudo mosquitto_sub -t "covfefe"
+sudo apt-get purge --remove mosquitto*
+sudo apt-add-repository --remove ppa:mosquitto-dev/mosquitto-ppa
+sudo apt-get update
+sudo apt-get install mosquitto
+sudo apt-get install mosquitto-clients
+mosquitto_sub -t "test"
+mosquitto_sub -t "test" -u "passwords" -P "MosquittoHanchiBoy77"
+user mosquitto
+passwords mosquitto
+sudo update-rc.d mosquitto remove
+sudo nano /etc/systemd/system/mosquitto.service
+sudo systemctl enable mosquitto.service
+sudo reboot
+curl -X POST "fm4.westus.cloudapp.azure.com:1880/pub/myTopic/myPayload" -i
+sudo node-red
+mosquitto_pub -t "test"
+mosquitto_pub -t "test" -m "Hello World" 
+sudo mosquitto_pub -t "test" -m "Hello World"
+sudo mosquitto_pub -t "test" -m "Hello World" -u "passwords" -P "MosquittoHanchiBoy77"
+sudo apt-get install mosquitto-clients
+mosquitto_sub -t "ASUtest"
+sudo systemctl enable mosquitto.service
+mosquitto_sub -t "ASUtest"
+mosquitto_pub -t "sensorData" -u "passwords" -P "MosquittoHanchiBoy77"
+mosquitto start
+mosquitto_pub -t "sensorData" -m "Hello" -u "passwords" -P "MosquittoHanchiBoy77"

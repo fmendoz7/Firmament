@@ -392,7 +392,43 @@
      "file": "/usr/local/lib/node_modules/node-red/node_modules/node-red-node-tail/28-tail.js"
     }
    }
+  },
+  "node-red-node-mysql": {
+   "name": "node-red-node-mysql",
+   "version": "0.0.19",
+   "local": true,
+   "nodes": {
+    "mysql": {
+     "name": "mysql",
+     "types": [
+      "MySQLdatabase",
+      "mysql"
+     ],
+     "enabled": true,
+     "local": true,
+     "module": "node-red-node-mysql",
+     "file": "/home/fmendoz7/.node-red/node_modules/node-red-node-mysql/68-mysql.js"
+    }
+   }
   }
  },
- "_credentialSecret": "853ec04052351bb78d3bdc2d519038f0948e5a53600b3961f44014925c8e468b"
+ "_credentialSecret": "853ec04052351bb78d3bdc2d519038f0948e5a53600b3961f44014925c8e468b",
+ "users": {
+  "admin": {
+   "editor": {
+    "view": {
+     "view-show-grid": true,
+     "view-snap-grid": true,
+     "view-grid-size": "20",
+     "view-node-status": true,
+     "view-node-show-label": true,
+     "view-show-tips": true
+    },
+    "context": {
+     "flowRefresh": false
+    }
+   },
+   "menu-menu-item-sidebar": false
+  }
+ }
 }

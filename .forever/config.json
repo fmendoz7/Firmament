@@ -1,0 +1,17 @@
+{
+  "root": "/home/fmendoz7/.forever",
+  "pidPath": "/home/fmendoz7/.forever/pids",
+  "sockPath": "/home/fmendoz7/.forever/sock",
+  "loglength": 100,
+  "logstream": false,
+  "columns": [
+    "uid",
+    "command",
+    "script",
+    "forever",
+    "pid",
+    "id",
+    "logfile",
+    "uptime"
+  ]
+}

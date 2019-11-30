@@ -263,3 +263,68 @@ mosquitto_sub -t "ASUtest"
 mosquitto_pub -t "sensorData" -u "passwords" -P "MosquittoHanchiBoy77"
 mosquitto start
 mosquitto_pub -t "sensorData" -m "Hello" -u "passwords" -P "MosquittoHanchiBoy77"
+sudo git add .
+sudo git commit -m "Uninstalled, reinstalled mosquitto & linked to NODE RED"
+sudo git push
+mosquitto_pub -t "test" -m "Hello World"
+moquitto_pub -m "Hello World" -t "test"
+mosquitto_pub -m "Hello World" -t "test"
+curl -X POST "fm4.westus.cloudapp.azure.com:1880/pub/myTopic/myPayload" -i
+curl -X GET "fm4.westus.cloudapp.azure.com:1880/get/myTopic" -i
+curl -X GET "fm4.westus.cloudapp.azure.com:1880/get/timestamp" -i
+curl -X POST "fm4.westus.cloudapp.azure.com:1880/pub/timestamp" -i
+git add .
+git commit -m "Ran into problems with time-series database"
+git push
+sudo node-red
+sudo mosquitto -v
+mosquitto_sub -t "test"
+mosquitto_pub -t "sensorData" -u "passwords" -P "MosquittoHanchiBoy77"
+mosquitto_sub -t "sensorData" -u "passwords" -P "MosquittoHanchiBoy77"
+sudo systemctl enable mosquitto.service
+mosquitto_sub -t "sensorData" -u "passwords" -P "MosquittoHanchiBoy77"
+sudo reboot
+sudo node-red
+sudo update-rc.d mosquitto remove
+sudo nano /etc/systemd/system/mosquitto.service
+sudo systemctl enable mosquitto.service
+sudo reboot
+mosquitto_pub -t "sensorData" -m "Hello World" -u "passwords" -P "MosquittoHanchiBoy77"
+mosquitto_pub -t "test" -m "Hello World" -u "passwords" -P "MosquittoHanchiBoy77"
+mosquitto_pub -t "test" -m "Hello World" 
+sudo update-rc.d mosquitto remove
+sudo nano /etc/systemd/system/mosquitto.service
+sudo systemctl enable mosquitto.service
+sudo mosquitto -v
+mosquitto_pub -t "sensorData" -m "Hello World" -u "passwords" -P "MosquittoHanchiBoy77"
+mosquitto_pub -t "sensorData" -m "Message 2" -u "passwords" -P "MosquittoHanchiBoy77"
+curl -X GET "fm4.westus.cloudapp.azure.com:1880/get/myTopic" -i
+sudo node-red
+mosquitto_sub -t "sensorData" -P "MosquittoHanchiBoy77"
+mosquitto_pub -t -m "Hello World" -u "sensorData" -P "MosquittoHanchiBoy77"
+mosquitto_pub -t "sensorData" -m "Hello World" -u "passwords" -P "MosquittoHanchiBoy77"
+sudo update-rc.d mosquitto remove
+sudo nano /etc/systemd/system/mosquitto.service
+sudo systemctl enable mosquitto.service
+mosquitto_sub -t "sensorData" -P "MosquittoHanchiBoy77"
+sudo mosquitto -v
+mosquitto_sub -t "sensorData" -P "MosquittoHanchiBoy77"
+mosquitto_sub -t "sensorData" -P -u "passwords" "MosquittoHanchiBoy77"
+sudo mosquitto -v
+sudo node-red
+mosquitto -v
+sudo mosquitto -v
+sudo node-red
+sudo update-rc.d mosquitto remove
+sudo systemctl enable mosquitto.service
+sudo reboot
+mosquitto -v
+mosquitto_sub -t "sensorData" -u "passwords" -P "MosquittoHanchiBoy77"
+mosquitto_pub -t "sensorData" -m "test3" -u "passwords" -P "MosquittoHanchiBoy77"
+curl -X GET "fm3.westus.cloudapp.azure.com:1880/get/sensorData" -i
+curl -X GET "fm4.westus.cloudapp.azure.com:1880/get/sensorData" -i
+curl -X GET "fm4.westus.cloudapp.azure.com:1880/get/thingData" -i
+curl -X GET "fm4.westus.cloudapp.azure.com:1880/get/timestamp" -i
+curl -X GET "fm4.westus.cloudapp.azure.com:1880/get/#" -i
+curl -X GET "fm4.westus.cloudapp.azure.com:1880/get/myPayload" -i
+curl -X GET "fm4.westus.cloudapp.azure.com:1880/get/sensorData" -i

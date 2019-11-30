@@ -1,0 +1,540 @@
+30 Nov 12:01:05 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:01:05 - [info] Node-RED version: v1.0.2
+30 Nov 12:01:05 - [info] Node.js  version: v8.10.0
+30 Nov 12:01:05 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:01:06 - [info] Loading palette nodes
+30 Nov 12:01:07 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:01:07 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:01:07 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:01:07 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:01:07 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:01:07 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:01:07 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #1
+30 Nov 12:01:07 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:01:07 - [info] Node-RED version: v1.0.2
+30 Nov 12:01:07 - [info] Node.js  version: v8.10.0
+30 Nov 12:01:07 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:01:08 - [info] Loading palette nodes
+30 Nov 12:01:09 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:01:09 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:01:09 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:01:09 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:01:09 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:01:09 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:01:09 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #2
+30 Nov 12:01:10 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:01:10 - [info] Node-RED version: v1.0.2
+30 Nov 12:01:10 - [info] Node.js  version: v8.10.0
+30 Nov 12:01:10 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:01:10 - [info] Loading palette nodes
+30 Nov 12:01:11 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:01:11 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:01:11 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:01:11 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:01:11 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:01:11 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:01:11 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #3
+30 Nov 12:01:12 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:01:12 - [info] Node-RED version: v1.0.2
+30 Nov 12:01:12 - [info] Node.js  version: v8.10.0
+30 Nov 12:01:12 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:01:12 - [info] Loading palette nodes
+30 Nov 12:01:13 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:01:13 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:01:13 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:01:13 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:01:13 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:01:13 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:01:13 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #4
+30 Nov 12:01:14 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:01:14 - [info] Node-RED version: v1.0.2
+30 Nov 12:01:14 - [info] Node.js  version: v8.10.0
+30 Nov 12:01:14 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:01:14 - [info] Loading palette nodes
+30 Nov 12:01:15 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:01:15 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:01:15 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:01:15 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:01:15 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:01:15 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:01:15 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #5
+30 Nov 12:01:16 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:01:16 - [info] Node-RED version: v1.0.2
+30 Nov 12:01:16 - [info] Node.js  version: v8.10.0
+30 Nov 12:01:16 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:01:16 - [info] Loading palette nodes
+30 Nov 12:01:17 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:01:17 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:01:17 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:01:17 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:01:17 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:01:17 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:01:17 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #6
+30 Nov 12:01:18 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:01:18 - [info] Node-RED version: v1.0.2
+30 Nov 12:01:18 - [info] Node.js  version: v8.10.0
+30 Nov 12:01:18 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:01:18 - [info] Loading palette nodes
+30 Nov 12:01:19 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:01:19 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:01:19 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:01:19 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:01:19 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:01:19 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:01:19 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #7
+30 Nov 12:01:20 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:01:20 - [info] Node-RED version: v1.0.2
+30 Nov 12:01:20 - [info] Node.js  version: v8.10.0
+30 Nov 12:01:20 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:01:20 - [info] Loading palette nodes
+30 Nov 12:01:21 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:01:21 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:01:21 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:01:21 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:01:21 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:01:21 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:01:21 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #8
+30 Nov 12:01:22 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:01:22 - [info] Node-RED version: v1.0.2
+30 Nov 12:01:22 - [info] Node.js  version: v8.10.0
+30 Nov 12:01:22 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:01:22 - [info] Loading palette nodes
+30 Nov 12:01:23 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:01:23 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:01:23 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:01:23 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:01:23 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:01:23 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:01:23 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #9
+30 Nov 12:01:24 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:01:24 - [info] Node-RED version: v1.0.2
+30 Nov 12:01:24 - [info] Node.js  version: v8.10.0
+30 Nov 12:01:24 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:01:24 - [info] Loading palette nodes
+30 Nov 12:01:25 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:01:25 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:01:25 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:01:25 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:01:25 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:01:25 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:01:25 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #10
+30 Nov 12:01:26 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:01:26 - [info] Node-RED version: v1.0.2
+30 Nov 12:01:26 - [info] Node.js  version: v8.10.0
+30 Nov 12:01:26 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:01:26 - [info] Loading palette nodes
+30 Nov 12:01:27 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:01:27 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:01:27 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:01:27 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:01:27 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:01:27 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:01:27 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #11
+30 Nov 12:01:28 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:01:28 - [info] Node-RED version: v1.0.2
+30 Nov 12:01:28 - [info] Node.js  version: v8.10.0
+30 Nov 12:01:28 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:01:28 - [info] Loading palette nodes
+30 Nov 12:01:29 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:01:29 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:01:29 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:01:29 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:01:29 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:01:29 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:01:29 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #12
+30 Nov 12:01:30 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:01:30 - [info] Node-RED version: v1.0.2
+30 Nov 12:01:30 - [info] Node.js  version: v8.10.0
+30 Nov 12:01:30 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:01:30 - [info] Loading palette nodes
+30 Nov 12:01:31 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:01:31 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:01:31 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:01:31 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:01:31 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:01:31 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:01:31 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #13
+30 Nov 12:01:32 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:01:32 - [info] Node-RED version: v1.0.2
+30 Nov 12:01:32 - [info] Node.js  version: v8.10.0
+30 Nov 12:01:32 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:01:32 - [info] Loading palette nodes
+30 Nov 12:01:33 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:01:33 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:01:33 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:01:33 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:01:33 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:01:33 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:01:33 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #14
+30 Nov 12:01:34 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:01:34 - [info] Node-RED version: v1.0.2
+30 Nov 12:01:34 - [info] Node.js  version: v8.10.0
+30 Nov 12:01:34 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:01:34 - [info] Loading palette nodes
+30 Nov 12:01:35 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:01:35 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:01:35 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:01:35 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:01:35 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:01:35 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:01:35 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #15
+30 Nov 12:01:36 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:01:36 - [info] Node-RED version: v1.0.2
+30 Nov 12:01:36 - [info] Node.js  version: v8.10.0
+30 Nov 12:01:36 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:01:36 - [info] Loading palette nodes
+30 Nov 12:01:37 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:01:37 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:01:37 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:01:37 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:01:37 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:01:37 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:01:37 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #16
+30 Nov 12:01:38 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:01:38 - [info] Node-RED version: v1.0.2
+30 Nov 12:01:38 - [info] Node.js  version: v8.10.0
+30 Nov 12:01:38 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:01:38 - [info] Loading palette nodes
+30 Nov 12:01:39 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:01:39 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:01:39 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:01:39 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:01:39 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:01:39 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:01:39 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #17
+30 Nov 12:01:40 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:01:40 - [info] Node-RED version: v1.0.2
+30 Nov 12:01:40 - [info] Node.js  version: v8.10.0
+30 Nov 12:01:40 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:01:40 - [info] Loading palette nodes
+30 Nov 12:01:41 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:01:41 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:01:41 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:01:41 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:01:41 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:01:41 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:01:41 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #18
+30 Nov 12:01:42 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:01:42 - [info] Node-RED version: v1.0.2
+30 Nov 12:01:42 - [info] Node.js  version: v8.10.0
+30 Nov 12:01:42 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:01:42 - [info] Loading palette nodes
+30 Nov 12:01:43 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:01:43 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:01:43 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:01:43 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:01:43 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:01:43 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:01:43 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #19
+30 Nov 12:01:44 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:01:44 - [info] Node-RED version: v1.0.2
+30 Nov 12:01:44 - [info] Node.js  version: v8.10.0
+30 Nov 12:01:44 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:01:44 - [info] Loading palette nodes
+30 Nov 12:01:45 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:01:45 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:01:45 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:01:45 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:01:45 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:01:45 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:01:45 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #20
+30 Nov 12:01:46 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:01:46 - [info] Node-RED version: v1.0.2
+30 Nov 12:01:46 - [info] Node.js  version: v8.10.0
+30 Nov 12:01:46 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:01:46 - [info] Loading palette nodes
+30 Nov 12:01:47 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:01:47 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:01:47 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:01:47 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:01:47 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:01:47 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:01:47 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #21
+30 Nov 12:01:48 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:01:48 - [info] Node-RED version: v1.0.2
+30 Nov 12:01:48 - [info] Node.js  version: v8.10.0
+30 Nov 12:01:48 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:01:48 - [info] Loading palette nodes
+30 Nov 12:01:49 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:01:49 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:01:49 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:01:49 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:01:49 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:01:49 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:01:49 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #22
+30 Nov 12:01:50 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:01:50 - [info] Node-RED version: v1.0.2
+30 Nov 12:01:50 - [info] Node.js  version: v8.10.0
+30 Nov 12:01:50 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:01:50 - [info] Loading palette nodes
+30 Nov 12:01:51 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:01:51 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:01:51 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:01:51 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:01:51 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:01:51 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:01:51 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #23
+30 Nov 12:01:52 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:01:52 - [info] Node-RED version: v1.0.2
+30 Nov 12:01:52 - [info] Node.js  version: v8.10.0
+30 Nov 12:01:52 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:01:52 - [info] Loading palette nodes
+30 Nov 12:01:53 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:01:53 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:01:53 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:01:53 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:01:53 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:01:53 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:01:53 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #24
+30 Nov 12:01:54 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:01:54 - [info] Node-RED version: v1.0.2
+30 Nov 12:01:54 - [info] Node.js  version: v8.10.0
+30 Nov 12:01:54 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:01:55 - [info] Loading palette nodes
+30 Nov 12:01:55 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:01:55 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:01:55 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:01:55 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:01:55 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:01:55 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:01:55 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #25
+30 Nov 12:01:56 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:01:56 - [info] Node-RED version: v1.0.2
+30 Nov 12:01:56 - [info] Node.js  version: v8.10.0
+30 Nov 12:01:56 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:01:57 - [info] Loading palette nodes
+30 Nov 12:01:57 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:01:57 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:01:57 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:01:57 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:01:57 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:01:57 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:01:57 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #26
+30 Nov 12:01:58 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:01:58 - [info] Node-RED version: v1.0.2
+30 Nov 12:01:58 - [info] Node.js  version: v8.10.0
+30 Nov 12:01:58 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:01:59 - [info] Loading palette nodes
+30 Nov 12:01:59 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:01:59 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:01:59 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:01:59 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:01:59 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:01:59 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:01:59 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #27
+30 Nov 12:02:00 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:02:00 - [info] Node-RED version: v1.0.2
+30 Nov 12:02:00 - [info] Node.js  version: v8.10.0
+30 Nov 12:02:00 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:02:01 - [info] Loading palette nodes
+30 Nov 12:02:01 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:02:01 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:02:01 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:02:01 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:02:01 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:02:01 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:02:01 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #28
+30 Nov 12:02:02 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:02:02 - [info] Node-RED version: v1.0.2
+30 Nov 12:02:02 - [info] Node.js  version: v8.10.0
+30 Nov 12:02:02 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:02:03 - [info] Loading palette nodes
+30 Nov 12:02:03 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:02:03 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:02:03 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:02:03 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:02:03 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:02:03 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:02:03 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #29
+30 Nov 12:02:04 - [info] 
+
+Welcome to Node-RED
+===================
+
+30 Nov 12:02:04 - [info] Node-RED version: v1.0.2
+30 Nov 12:02:04 - [info] Node.js  version: v8.10.0
+30 Nov 12:02:04 - [info] Linux 5.0.0-1025-azure x64 LE
+30 Nov 12:02:05 - [info] Loading palette nodes
+30 Nov 12:02:05 - [info] Settings file  : /home/fmendoz7/.node-red/settings.js
+30 Nov 12:02:05 - [info] Context store  : 'default' [module=memory]
+30 Nov 12:02:05 - [info] User directory : /home/fmendoz7/.node-red
+30 Nov 12:02:05 - [warn] Projects disabled : editorTheme.projects.enabled=false
+30 Nov 12:02:05 - [info] Flows file     : /home/fmendoz7/.node-red/flows_FM-4.json
+30 Nov 12:02:05 - [error] Unable to listen on http://127.0.0.1:1880/admin/
+30 Nov 12:02:05 - [error] Error: port in use
+error: Forever detected script exited with code: 1
+error: Script restart attempt #30

@@ -1,4 +1,4 @@
-# IOT Middleware Platform Core
+# IOT Middleware Platform Core (Senior Capstone)
 # PROJECT STILL UNDER DEVELOPMENT (WIP)
 IOT Middleware Platform core enabling rapid prototyping of IOT API's through a drag-and-drop interface, asynchronous communication via Mosquitto MQTT and storage via SQL.
 
